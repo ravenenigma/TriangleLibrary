@@ -1,0 +1,5 @@
+c:\users\ravshan\documents\visual studio 2012\Projects\TriangleLibrary\TriangleUnitTest\bin\Debug\TriangleUnitTest.dll
+c:\users\ravshan\documents\visual studio 2012\Projects\TriangleLibrary\TriangleUnitTest\bin\Debug\TriangleUnitTest.pdb
+c:\users\ravshan\documents\visual studio 2012\Projects\TriangleLibrary\TriangleUnitTest\obj\Debug\TriangleUnitTest.csprojResolveAssemblyReference.cache
+c:\users\ravshan\documents\visual studio 2012\Projects\TriangleLibrary\TriangleUnitTest\obj\Debug\TriangleUnitTest.dll
+c:\users\ravshan\documents\visual studio 2012\Projects\TriangleLibrary\TriangleUnitTest\obj\Debug\TriangleUnitTest.pdb
